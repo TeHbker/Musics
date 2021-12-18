@@ -1,0 +1,65 @@
+body {
+  text-align: center;
+  background-color: #DC143C;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Algerian";
+}
+
+.q {
+  background-image: url(images/gu1.png);
+}
+
+.w {
+  background-image: url(images/gu2.png);
+
+}
+
+.e {
+  background-image: url(images/gu3.png);
+
+}
+
+.a {
+  background-image: url(images/gu4.png);
+
+}
+
+.s {
+  background-image: url(images/ar.jpg);
+}
+
+.d {
+  background-image: url(images/ar2.png);
+}
+
+.z {
+  background-image: url(images/ar3.png);
+}
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 4px 5px 0 #00FF7F;
+  border: 20px;
+}
+
+
+.trun {
+  border: 10px solid #87CEFA;
+  font-size: 5rem;
+  border-radius: 10px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  font-family: 'Gabriola';
+  text-align: right;
+  margin: 10px;
+  line-height: 2;
+  color: #9932CC;
+  text-shadow: 4px 0 black;
+}
